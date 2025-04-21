@@ -1,0 +1,9 @@
+flask
+python-binance
+pandas
+requests
+apscheduler
+flask_socketio
+plotly
+gunicorn
+python-telegram-bot
